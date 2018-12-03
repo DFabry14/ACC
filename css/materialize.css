@@ -979,12 +979,13 @@
   color: #00b8d4 !important;
 }
 
+/* FOOTER COLOR  */
 .teal {
-  background-color: #009688 !important;
+  background-color: #b2d8d9 !important;
 }
 
 .teal-text {
-  color: #009688 !important;
+  color: #b2d8d9 !important;
 }
 
 .teal.lighten-5 {
@@ -992,7 +993,7 @@
 }
 
 .teal-text.text-lighten-5 {
-  color: #e0f2f1 !important;
+  color: #b2d8d9 !important;
 }
 
 .teal.lighten-4 {
@@ -1000,7 +1001,7 @@
 }
 
 .teal-text.text-lighten-4 {
-  color: #b2dfdb !important;
+  color: #b2d8d9 !important;
 }
 
 .teal.lighten-3 {
@@ -1008,7 +1009,7 @@
 }
 
 .teal-text.text-lighten-3 {
-  color: #80cbc4 !important;
+  color: #b2d8d9 !important;
 }
 
 .teal.lighten-2 {
@@ -1016,7 +1017,7 @@
 }
 
 .teal-text.text-lighten-2 {
-  color: #4db6ac !important;
+  color: #b2d8d9 !important;
   color: white;
     text-shadow:
     -1px -1px 0 #000,
@@ -1034,11 +1035,11 @@
 }
 
 .teal.darken-1 {
-  background-color: #00897b !important;
+  background-color: #b2d8d9 !important;
 }
 
 .teal-text.text-darken-1 {
-  color: #00897b !important;
+  color: #b2d8d9 !important;
 }
 
 .teal.darken-2 {
@@ -9055,6 +9056,10 @@ input[type=range]::-ms-thumb {
 .timepicker-clear,
 .timepicker-close {
   padding: 0 20px;
+}
+
+.headline {
+  font-family: 'Cinzel', serif;
 }
 
 /* Media Queries */
