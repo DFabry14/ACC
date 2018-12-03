@@ -3,6 +3,18 @@
  * Copyright 2014-2017 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+
+ /* Color codes: 
+ 542E22
+ B2765D
+ A9D9DA 
+ 
+ Fonts:
+ https://fonts.google.com/specimen/Bree+Serif
+ https://www.dafont.com/always-in-my-heart.font
+ */
+
+
 .materialize-red {
   background-color: #e51c23 !important;
 }
@@ -981,11 +993,11 @@
 
 /* FOOTER COLOR  */
 .teal {
-  background-color: #b2d8d9 !important;
+  background-color: #A9D9DA !important;
 }
 
 .teal-text {
-  color: #b2d8d9 !important;
+  color: #A9D9DA !important;
 }
 
 .teal.lighten-5 {
@@ -993,7 +1005,7 @@
 }
 
 .teal-text.text-lighten-5 {
-  color: #b2d8d9 !important;
+  color: #A9D9DA !important;
 }
 
 .teal.lighten-4 {
@@ -1001,7 +1013,7 @@
 }
 
 .teal-text.text-lighten-4 {
-  color: #b2d8d9 !important;
+  color: #A9D9DA !important;
 }
 
 .teal.lighten-3 {
@@ -1009,7 +1021,7 @@
 }
 
 .teal-text.text-lighten-3 {
-  color: #b2d8d9 !important;
+  color: #A9D9DA !important;
 }
 
 .teal.lighten-2 {
@@ -1017,7 +1029,7 @@
 }
 
 .teal-text.text-lighten-2 {
-  color: #b2d8d9 !important;
+  color: #A9D9DA !important;
   color: white;
     text-shadow:
     -1px -1px 0 #000,
@@ -1035,11 +1047,11 @@
 }
 
 .teal.darken-1 {
-  background-color: #b2d8d9 !important;
+  background-color: #A9D9DA !important;
 }
 
 .teal-text.text-darken-1 {
-  color: #b2d8d9 !important;
+  color: #A9D9DA !important;
 }
 
 .teal.darken-2 {
@@ -9059,7 +9071,7 @@ input[type=range]::-ms-thumb {
 }
 
 .headline {
-  font-family: 'Cinzel', serif;
+  font-family: 'Bree Serif', serif;
 }
 
 /* Media Queries */
