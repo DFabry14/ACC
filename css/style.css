@@ -29,6 +29,11 @@ p {
     width: 100%;
   }
 
+.video {
+  width: 700px;
+  height: 400px;
+  }
+
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
@@ -37,6 +42,9 @@ p {
   }
   #index-banner .section {
     top: 10%;
+  }
+  .video {
+    width: 80%;
   }
 }
 
