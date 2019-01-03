@@ -34,6 +34,11 @@ p {
   height: 400px;
   }
 
+.pdf {
+  width: 80%;
+  height: 900px;
+}
+
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
@@ -45,12 +50,25 @@ p {
   }
   .video {
     width: 80%;
+    height: auto;
+  }
+  .pdf {
+    width: 80%;
+    height: auto;
   }
 }
 
 @media only screen and (max-width : 600px) {
   #index-banner .section {
     top: 0;
+  }
+  .video {
+    width: 80%;
+    height: auto;
+  }
+  .pdf {
+    width: 80%;
+    height: auto;
   }
 }
 
