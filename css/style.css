@@ -39,6 +39,11 @@ p {
   height: 900px;
 }
 
+.logo {
+  width:300px;
+  height:auto;
+}
+
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
@@ -56,6 +61,10 @@ p {
     width: 80%;
     height: auto;
   }
+  .logo {
+    width: 75%;
+    height: auto;
+  }
 }
 
 @media only screen and (max-width : 600px) {
@@ -68,6 +77,10 @@ p {
   }
   .pdf {
     width: 80%;
+    height: auto;
+  }
+  .logo {
+    width: 75%;
     height: auto;
   }
 }
