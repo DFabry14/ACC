@@ -4514,19 +4514,19 @@ html {
 
 @media only screen and (min-width: 0) {
   html {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 
 @media only screen and (min-width: 992px) {
   html {
-    font-size: 14.5px;
+    font-size: 16px;
   }
 }
 
 @media only screen and (min-width: 1200px) {
   html {
-    font-size: 15px;
+    font-size: 18px;
   }
 }
 
@@ -4588,7 +4588,7 @@ small {
 }
 
 .light {
-  font-weight: 300;
+  font-weight: 425;
 }
 
 .thin {
@@ -8414,7 +8414,7 @@ input[type=range]::-ms-thumb {
 }
 
 .carousel.carousel-slider .carousel-item p {
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .carousel .carousel-item {
