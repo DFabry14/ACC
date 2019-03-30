@@ -69,6 +69,10 @@ p {
     width: 75%;
     height: auto;
   }
+
+  .thanks {
+    width: 75%;
+  }
 }
 
 @media only screen and (max-width : 600px) {
@@ -86,6 +90,9 @@ p {
   .logo {
     width: 75%;
     height: auto;
+  }
+  .thanks {
+    width: 75%;
   }
 }
 
