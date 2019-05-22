@@ -160,11 +160,29 @@
         </div>
     </footer>
 
+    <div id="modal1" class="modal">
+        <div class="modal-content">
+            <h4>To donate by mail:</h4>
+            <p>Please make checks payable to Aaron's Coffee Corner</p>
+            <p>458 Hermitage Drive</p>
+            <p>Deerfield, IL 60015</p>
+            <p>Concerns or questions? Contact Carolyn@AaronsCoffeeCorner.com</p>
+        </div>
+        <div class="modal-footer">
+            <a href="#!" class="modal-close waves-effect waves-green btn-flat">Close</a>
+        </div>
+    </div>
+
 
     <!--  Scripts-->
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="js/materialize.js"></script>
     <script src="js/init.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.modal').modal();
+        });
+    </script>
 
 </body>
 
